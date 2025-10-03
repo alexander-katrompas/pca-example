@@ -36,7 +36,15 @@ Classic: Almost every ML library has it built-in (scikit-learn, R, MATLAB).
 **Sepal length	Sepal width	Petal length	Petal width	Species**
 **5.1 cm	3.5 cm	1.4 cm	0.2 cm	Iris setosa**
 
-Required Packages
+
+
+## **The Model**
+
+Standard logistic regression using PCA (2 components)
+
+
+
+**Required Packages**
 
 - numpy
 - pandas
